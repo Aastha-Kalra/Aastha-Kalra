@@ -48,6 +48,6 @@ Designing :
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 Profile Views
-[![](https://visitcount.itsvg.in/api?id=aastha-kalra&icon=5&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Aastha-Kalra&label=Profile%20Views%20&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -49,5 +49,8 @@ Designing :
 
 Profile Views
 [![](https://visitcount.itsvg.in/api?id=Aastha-Kalra&label=Profile%20Views%20&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Aastha-Kalra&label=Profile%20Views%20&color=6&icon=0&pretty=false" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

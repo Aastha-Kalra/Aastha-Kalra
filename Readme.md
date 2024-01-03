@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Frontend Web Developer. My journey involves progressing from smaller-scale projects to more substantial and innovative ventures. I'm inclined to embrace emerging technologies and incorporate them into my work, and I'm well-equipped to manage the responsibilities that come with it. My learning areas include Web Development | ReactJs | NodeJS |<br><br>👯 I’m looking to collaborate on open source projects<br>💬 Happy to help if anything is regarding web development
+A Frontend Web Developer. My journey involves progressing from smaller-scale projects to more substantial and innovative ventures. I'm inclined to embrace emerging technologies and incorporate them into my work, and I'm well-equipped to manage the responsibilities that come with it. My learning areas include Web Development | ReactJs | NodeJS | React-Native<br><br>👯 I’m looking to collaborate on open source projects<br>💬 Happy to help if anything is regarding web development
 
 
 ## 🌐 Socials:

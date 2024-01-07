@@ -1,6 +1,7 @@
 # 💫 About Me:
 A Frontend Web Developer. My journey involves progressing from smaller-scale projects to more substantial and innovative ventures. I'm inclined to embrace emerging technologies and incorporate them into my work, and I'm well-equipped to manage the responsibilities that come with it. My learning areas include Web Development | ReactJs | NodeJS | React-Native<br><br>👯 I’m looking to collaborate on open source projects<br>💬 Happy to help if anything is regarding web development
 
+[![](https://visitcount.itsvg.in/api?id=Aastha-Kalra&label=Profile%20Views%20&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aastha-kalra9927/) 
@@ -48,7 +49,7 @@ Designing :
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
-[![](https://visitcount.itsvg.in/api?id=Aastha-Kalra&label=Profile%20Views%20&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
